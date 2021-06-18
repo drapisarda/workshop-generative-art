@@ -2,6 +2,18 @@
 
 This repository includes code & resources for students attending my *Generative Art & Creative Coding with JavaScript* workshops in 2018.
 
+# DISCLAIMER
+This is my fork for my Workshop outcome during the **Homeday's Product Engineering Week Q2 2021**. To lunch my
+project, use this on your terminal
+
+```sh
+cd <to this project folder>
+npm i
+canvas-sketch src/exercises/homeday-blocks_commits_stats.js
+```
+
+then visit `http://192.168.0.3:9966/` on your browser.
+
 # Contents
 
 - [Tools & Prerequisites](#tools--prerequisites)
